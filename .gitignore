@@ -9,3 +9,6 @@ models
 
 # compiled python files
 *.pyc
+
+# download files
+*.zip
